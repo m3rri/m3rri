@@ -1,33 +1,45 @@
-<h2 align="center">👋 I'm merri 👋</h2>
-<h4 align="center"><i>" Web Developer "</i></h4>
+<h2 align="center">👋 I'm <i>web developer</i> merri 👋</h2>
 
-- 🔭 I’m currently working on [**seegene**](https://github.com/seegenelab)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://m3rri.github.io/)](https://m3rri.github.io/)
+[![Contact Badge](http://img.shields.io/badge/-email-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://m3rri.github.io/)](https://m3rri.github.io/)
+[![Social Badge](http://img.shields.io/badge/-kimhyeri-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/%ed%98%9c%eb%a6%ac-%ea%b9%80-6078841b1)](https://linkedin.com/in/%ed%98%9c%eb%a6%ac-%ea%b9%80-6078841b1)
+
+- 🔭 I’m currently working on [**Seegene**](https://github.com/seegenelab)
 
 - 🌱 I’m currently learning **Spring WebFlux, AWS**
 
-- 📝 I blog in [m3rri.github.io](https://m3rri.github.io/)
-
 - 💬 Ask me about **Spring boot, javascript ES6**
 
-- 📫 How to reach me **m3rri17@gmail.com**
+<h4 align="left">Languages 👇</h4>
 
-<h4 align="left">Connect with me 👉 <a href="https://linkedin.com/in/%ed%98%9c%eb%a6%ac-%ea%b9%80-6078841b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="%ed%98%9c%eb%a6%ac-%ea%b9%80-6078841b1" height="18" width="24" valign="top" /></4></h3>
+![java](http://img.shields.io/badge/-java-007396?style=flat-square&logo=java)
+![javascript](http://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![typescript](http://img.shields.io/badge/-typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-<h4 align="left">Languages and Tools 👇</h4>
-<p align="left">
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
+![spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![springboot](http://img.shields.io/badge/-Spring%20boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+![maven](http://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=ApacheMaven&logoColor=white)
+![gradle](http://img.shields.io/badge/-gradle-02303A?style=flat-square&logo=Gradle&logoColor=white)
+![thymeleaf](http://img.shields.io/badge/-thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white)
+
+![reactjs](http://img.shields.io/badge/-react-61DAFB?style=flat-square&logo=react&logoColor=white)
+![nextjs](http://img.shields.io/badge/-next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![emotion](http://img.shields.io/badge/-emotion-d26ac2?style=flat-square&logo=emotion&logoColor=white)
+![tailwindcss](http://img.shields.io/badge/-tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+![oracle](http://img.shields.io/badge/-oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![mariadb](http://img.shields.io/badge/-mariadb-003545?style=flat-square&logo=mariadb&logoColor=white)
+
+<h4 align="left">Tools and ETC 👇</h4>
+
+![git](http://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white)
+![aws](http://img.shields.io/badge/-Amazon%20aws-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
+![linux](http://img.shields.io/badge/-linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+
+![vscode](http://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
+![intellij](http://img.shields.io/badge/-intellij-4A154B?style=flat-square&logo=IntelliJIDEA&logoColor=white)
+![notion](http://img.shields.io/badge/-notion-black?style=flat-square&logo=notion&logoColor=white)
+![slack](http://img.shields.io/badge/-slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m3rri&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="m3rri" /></p>
 
