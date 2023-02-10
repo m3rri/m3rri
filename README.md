@@ -4,6 +4,9 @@
 [![Contact Badge](http://img.shields.io/badge/-email-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://m3rri.github.io/)](https://m3rri.github.io/)
 [![Social Badge](http://img.shields.io/badge/-kimhyeri-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/%ed%98%9c%eb%a6%ac-%ea%b9%80-6078841b1)](https://linkedin.com/in/%ed%98%9c%eb%a6%ac-%ea%b9%80-6078841b1)
 
+![profiledetail](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m3rri&theme=github)
+
+
 - 🔭 I’m currently working on [**Seegene**](https://github.com/seegenelab)
 
 - 🌱 I’m currently learning **Spring WebFlux, AWS**
@@ -41,6 +44,7 @@
 ![notion](http://img.shields.io/badge/-notion-black?style=flat-square&logo=notion&logoColor=white)
 ![slack](http://img.shields.io/badge/-slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m3rri&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="m3rri" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m3rri&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars" alt="m3rri" /></p>
+![toplangs](https://github-readme-stats.vercel.app/api/top-langs?username=m3rri&theme=calm)
+![api](https://github-readme-stats.vercel.app/api?username=m3rri&theme=calm&hide=stars)
