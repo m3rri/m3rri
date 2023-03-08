@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [**Seegene**](https://github.com/seegenelab)
 
-- 🌱 I’m currently learning **Spring WebFlux, AWS**
+- 🌱 I’m currently learning **Kotlin, Spring WebFlux, AWS**
 
 - 💬 Ask me about **Spring boot, javascript ES6**
 
